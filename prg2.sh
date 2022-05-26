@@ -1,4 +1,4 @@
-###This code returns the amount of free memory and virtual memory to the screen in an infinite loop.
+
 #!/bin/env bash
 
 echo "Mem Free; Mem Swap" 
